@@ -35,16 +35,19 @@ A = [1.000 1.000;
 b1 = [2.000 ; 2.000]
 b2 = [2.000 ; 2.001]
 ```
-
+```plaintxt
 Condition number at 1 = 4003.81
 Condition number at infinity = 4003.81
+```
 
 Solution for Ax1 = b1
+```plaintxt
 x1 = [2 ; 0]
-
+```
 Solution for Ax2 = b2
+```plaintxt
 x2 = [1.00012 ; 0.999881]
-
+```
 The high condition number illustrates the inherent problem when dealing with small errors in the input, which can result in large errors in the output.
 
 ## How to Compile and Run

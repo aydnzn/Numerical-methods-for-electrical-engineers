@@ -13,7 +13,7 @@
 - Projects require C++ programming 
 
 ## Projects
-This section will showcase the semester projects related to the course EE 242.02:
-1. [Project 1](./Project1/README.md): *Description of Project 1*
+This section will showcase the semester projects:
+1. [Project 1](./Project1/README.md): The aim of this project is to implement the Gaussian elimination algorithm with partial pivoting along with backward substitution to solve the equation `Ax = b`, where `A` is a `n x n` square matrix.
 2. [Project 2](./Project2/README.md): *Description of Project 2*
 3. [Project 3](./Project3/README.md): *Description of Project 3*
